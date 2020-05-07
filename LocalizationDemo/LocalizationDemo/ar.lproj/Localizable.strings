@@ -1,0 +1,12 @@
+/* 
+  Languages.strings
+  LocalizationDemo
+
+  Created by Mehul Jadav on 08/08/19.
+  Copyright © 2019 mac. All rights reserved.
+*/
+
+
+
+"header_text"           = "اللغة الحالية الإنجليزية";
+"change_language"       = "غير اللغة";
